@@ -9,14 +9,14 @@ I analysed this data as a data analyst working for a fictional company called Au
 
 
 ### MYSQL Concepts Used
--- Data Cleaning and Deduplication using ROW_NUMBER()
--- Views using CREATE OR REPLACE VIEW
--- Aggregate Functions (SUM(), COUNT(), AVG())
--- Conditional Logic (CASE WHEN)
--- Common Table Expressions (CTEs)
--- Subqueries
--- GROUP BY
--- ORDER BY
--- Window Functions
--- Sorting and Ranking
+- Data Cleaning and Deduplication using `ROW_NUMBER()`
+- Views using `CREATE OR REPLACE VIEW`
+- Aggregate Functions (`SUM()`, `COUNT()`, `AVG()`)
+- Conditional Logic (`CASE WHEN`)
+- Common Table Expressions (CTEs)
+- Subqueries
+- `GROUP BY`
+- `ORDER BY`
+- Window Functions
+- Sorting and Ranking
 Share the repository and share your feedback.
