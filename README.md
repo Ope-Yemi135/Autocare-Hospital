@@ -5,18 +5,18 @@ Specifically, data were related to patients; date of admission; date of discharg
 
 
 ### Project Objectives
-I analysed this data as a data analyst working for a fictional company called Auto Care Hospital using MYSQL Server. The focus of the analysis was on discharge, to explore how discharges affect hospital length of stay, discharge distribution for different age groups, gender and by the day of the week, and what discharge looks like everyday.
+I analysed this data as a data analyst working for a fictional company called Auto Care Hospital using MYSQL Server. The focus of the analysis was on discharge, to explore how discharges affect hospital length of stay, discharge distribution for different age groups, gender and by the day of the week, and what discharge looks like every day.
 
 
-### SQL Concepts Used
-Data Cleaning and Deduplication using ROW_NUMBER()
-Views using CREATE OR REPLACE VIEW
-Aggregate Functions (SUM(), COUNT(), AVG())
-Conditional Logic (CASE WHEN)
-Common Table Expressions (CTEs)
-Subqueries
-GROUP BY
-ORDER BY
-Window Functions
-Sorting and Ranking
+### MYSQL Concepts Used
+-- Data Cleaning and Deduplication using ROW_NUMBER()
+-- Views using CREATE OR REPLACE VIEW
+-- Aggregate Functions (SUM(), COUNT(), AVG())
+-- Conditional Logic (CASE WHEN)
+-- Common Table Expressions (CTEs)
+-- Subqueries
+-- GROUP BY
+-- ORDER BY
+-- Window Functions
+-- Sorting and Ranking
 Share the repository and share your feedback.
