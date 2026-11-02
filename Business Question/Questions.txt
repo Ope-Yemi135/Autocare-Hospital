@@ -1,0 +1,8 @@
+You are a data analyst for Auto-Care Hospital; your stakeholders would like to know the following from their data: 
+Business Problem:
+1.    Total Discharges
+2.    Average daily discharge rate.
+3.    Average length of stay
+4.    Distribution of discharges by Age group.
+5.    Distribution of discharges by Gender.
+6.    Distribution of discharges by day of the week.
